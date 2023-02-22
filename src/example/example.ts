@@ -1,6 +1,6 @@
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
-import { ObAlertModule, ObIAlertType } from '@oblique/oblique';
+import { ObAlertModule } from '@oblique/oblique';
 
 @Component({
   selector: 'example',
